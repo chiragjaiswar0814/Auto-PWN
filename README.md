@@ -185,6 +185,6 @@ Feel free to enhance this script by:
 - Adding parallel scanning capabilities
 - Implementing report generation
 
-## 📄 License
+
 
 This project is provided for educational purposes. Use responsibly and ethically.
